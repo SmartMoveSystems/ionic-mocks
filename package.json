@@ -74,6 +74,7 @@
     ]
   },
   "dependencies": {
+    "@ionic-native/file": "^4.10.0",
     "deprecated-decorator": "^0.1.6"
   }
 }
